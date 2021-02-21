@@ -1,4 +1,5 @@
 # Verilog-A Frequency Divider BIST circuit
+[![DOI](https://zenodo.org/badge/341025882.svg)](https://zenodo.org/badge/latestdoi/341025882)
 
 This Verilog-A cell is aimed to speed up the simulations of a frequency divider. Due to the similar nature of the circuits, it is also capable to simulate a mixer.
 It measures the most important characteristic of a frequency divider: the sensitivity curve.
